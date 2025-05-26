@@ -45,7 +45,7 @@ This project helped me practice layout centering using Flexbox instead of absolu
 - Importance of using `max-width` with `width: 100%` to maintain responsiveness
 - How to style elements using semantic class naming and structure
 
-````css
+```css
 .container {
   height: 100vh;
   display: grid;
@@ -60,7 +60,7 @@ This project helped me practice layout centering using Flexbox instead of absolu
   margin: auto;
   text-align: center;
 }
-```css
+```
 
 ### Continued development
 
@@ -80,5 +80,3 @@ In future projects, I want to:
 
 - Name – Rishabh Sikka
 - Frontend Mentor – [@RishabhSikka3](https://www.frontendmentor.io/profile/RishabhSikka3)
-
-````
